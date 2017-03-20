@@ -14,7 +14,7 @@ Body {
   text-transform: uppercase;
   color: #2E0D11;
   border-bottom: 2px solid #682C33;
-  padding: 10px;
+  /*padding: 10px;*/
   margin-bottom: 80px;
 }
 
@@ -53,9 +53,9 @@ ul.navbar-nav li.active a {
    color: #D84C5E  !important;
 }
 
-.navbar-light .navbar-toggler {
+/*.navbar-light .navbar-toggler {
   border-color: transparent;
-}
+}*/
 
 
 
